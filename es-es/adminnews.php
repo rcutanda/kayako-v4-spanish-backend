@@ -16,10 +16,10 @@
 
 $__LANG = array (
 	// ======= BEGIN V4 LOCALES =======
-	'news' => 'News',
-	'nwsettings' => 'Settings',
+	'news' => 'Noticias',
+	'nwsettings' => 'Ajustes',
 	'desc_nwsettings' => '',
-	'tabsettings' => 'Settings',
+	'tabsettings' => 'Ajustes',
 	// ======= END V4 LOCALES =======
 );
 ?>
