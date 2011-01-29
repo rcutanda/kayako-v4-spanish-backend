@@ -16,10 +16,10 @@
 
 $__LANG = array (
 	// ======= BEGIN V4 LOCALES =======
-	'downloads' => 'Downloads',
-	'dlsettings' => 'Settings',
+	'downloads' => 'Descargas',
+	'dlsettings' => 'Ajustes',
 	'desc_dlsettings' => '',
-	'tabsettings' => 'Settings',
+	'tabsettings' => 'Ajustes',
 	// ======= END V4 LOCALES =======
 );
 ?>
