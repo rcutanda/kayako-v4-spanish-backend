@@ -15,8 +15,8 @@
  */
 
 $__LANG = array (
-	'emptyingindex' => 'Emptying search index',
-	'indexinfo' => 'Total posts %d, Start at: %d, End at: %d',
-	'rebuildingpost' => 'Rebuilding posts (Last ID: %d) - %d',
+	'emptyingindex' => 'Vaciando el índice de búsqueda',
+	'indexinfo' => 'Mensajes totales %d, Inicio en: %d, Fin en: %d',
+	'rebuildingpost' => 'Reconstruyendo mensajes (Última ID: %d) - %d',
 );
 ?>
