@@ -16,10 +16,10 @@
 
 $__LANG = array (
 	// ======= BEGIN V4 LOCALES =======
-	'knowledgebase' => 'Knowledgebase',
-	'kbsettings' => 'Settings',
+	'knowledgebase' => 'Documentación',
+	'kbsettings' => 'Ajustes',
 	'desc_kbsettings' => '',
-	'tabsettings' => 'Settings',
+	'tabsettings' => 'Ajustes',
 	// ======= END V4 LOCALES =======
 );
 ?>
