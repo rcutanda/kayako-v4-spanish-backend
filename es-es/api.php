@@ -15,19 +15,19 @@
  */
 
 $__LANG = array (
-	'invaliddatareceived' => 'Invalid or malformed data received; unable to proceed.',
-	'errordataprocess' => 'Unable to carry out the action, The API sub system received mailformed data after function execution.',
-	'invalidemail' => 'Invalid Email. Please check the syntax of the email address.',
+	'invaliddatareceived' => 'Los datos recibidos son inválidos o tienen un formato incorrecto. No ha sido posible procesarlos.',
+	'errordataprocess' => 'No se ha podido llevar a cabo la acción. El subsistema de la API ha recibido datos con un formato incorrecto tras la ejecución de la función.',
+	'invalidemail' => 'Correo Inválido. Por favor, comprueba la sintaxis de la dirección de correo.',
 
 	// ======= CORE =======
-	'staffusernameexists' => 'Unable to insert/update Staff. There is an existing staff user with the same username.',
-	'staffdoesnotexist' => 'The Staff User does not exist',
-	'staffgroupdoesnotexist' => 'The Staff Group does not exist',
-	'settingdoesnotexist' => 'The specified setting field does not exist',
-	'departmentmodmismatch' => 'The department module specified for the parent department %s (%s) does not match the module specified (%s)',
-	'departmentmultipleparenterror' => SWIFTPRODUCT.' allows only single level sub departments. You cannot assign to an existing sub department',
-	'errorinvaliddepartment' => 'The department does not exist',
-	'errorinvalidparentdepartment' => 'The parent department does not exist',
+	'staffusernameexists' => 'No ha sido posible insertar/actualizar al personal. Ya ha un usuario de personal con ese mismo nombre de usuario.',
+	'staffdoesnotexist' => 'El usuario de personal no existe',
+	'staffgroupdoesnotexist' => 'El Grupo de Personal no existe',
+	'settingdoesnotexist' => 'El campo de ajuste especificado no existe',
+	'departmentmodmismatch' => 'El módulo de departamento especificado para el departamento padre %s (%s) no coincide con el módulo especificado (%s)',
+	'departmentmultipleparenterror' => SWIFTPRODUCT.' únicamente permite un nivel de subdepartamenteos. No puedes asignar a un subdepartamento existente',
+	'errorinvaliddepartment' => 'El departamento no existe',
+	'errorinvalidparentdepartment' => 'El departamento padre no existe',
 	// ======= TICKETS =======
 );
 ?>
