@@ -16,10 +16,10 @@
 
 $__LANG = array (
 	// ======= BEGIN V4 LOCALES =======
-	'troubleshooter' => 'Troubleshooter',
-	'trsettings' => 'Settings',
+	'troubleshooter' => 'Asistente',
+	'trsettings' => 'Ajustes',
 	'desc_trsettings' => '',
-	'tabsettings' => 'Settings',
+	'tabsettings' => 'Ajustes',
 	// ======= END V4 LOCALES =======
 );
 ?>
