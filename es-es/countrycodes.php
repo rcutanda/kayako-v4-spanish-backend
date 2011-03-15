@@ -15,8 +15,8 @@
  */
 
 $__LANG = array(
-	'CO_A1' => 'Anonymous Proxy',
-	'CO_A2' => 'Satellite Provider',
+	'CO_A1' => 'Proxy Anónimo',
+	'CO_A2' => 'Acceso por Satélite',
 	'CO_AD' => 'Andorra',
 	'CO_AE' => 'United Arab Emirates',
 	'CO_AF' => 'Afghanistan',
